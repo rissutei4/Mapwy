@@ -19,6 +19,6 @@ Mapwy is an interactive workout-tracking application that enables users to log a
   
 ### **Libraries & APIs:**
 - **Leaflet:** A powerful open-source library for mobile-friendly interactive maps, providing the mapping capabilities in Mapwy.
-- **Geolocation API:** Allows automatic capturing of the user’s location for quick and accurate workout placement.
+- **Nominatim API:** Allows automatic capturing of the user’s location for quick and accurate workout placement.
   
 Mapwy offers a user-friendly experience for those looking to manage their fitness journey through an intuitive, map-based interface.
