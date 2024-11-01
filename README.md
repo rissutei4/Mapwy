@@ -1,4 +1,3 @@
-```
 # **Mapwy**
 
 Mapwy is an interactive workout-tracking application that enables users to log and visualize their running and cycling activities on a map. Users can create new workouts, view their activity details, and track workout locations, providing a unique combination of fitness tracking and geolocation. It offers features like dynamic marker placement, local storage persistence, and seamless workout modification.
@@ -23,4 +22,3 @@ Mapwy is an interactive workout-tracking application that enables users to log a
 - **Geolocation API:** Allows automatic capturing of the user’s location for quick and accurate workout placement.
   
 Mapwy offers a user-friendly experience for those looking to manage their fitness journey through an intuitive, map-based interface.
-```
